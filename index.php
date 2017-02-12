@@ -6,10 +6,10 @@
     </head>
  <body>
 <?php
-$servername = "sql103.byethost31.com";
-$username = "b31_19318194";
-$password = "programa1985";
-$dbname = "b31_19318194_php";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
